@@ -8,6 +8,7 @@ export class LoadScene extends Phaser.Scene {
     {
         this.load.image('background', './images/blue_land.png');
         this.load.spritesheet('player', './images/player.png', {frameWidth: 128, frameHeight: 144});
+        this.load.spritesheet('ground', './images/ground.png', {frameWidth:128, frameHeight: 128});
     }
 
     create() 
