@@ -1,5 +1,4 @@
 import { Player } from "./player.js";
-
 export class Level001 extends Phaser.Scene 
 {
     constructor() 
