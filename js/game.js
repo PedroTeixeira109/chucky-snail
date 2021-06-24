@@ -1,4 +1,4 @@
-import {LoadScene} from './loadcene.js';
+import {LoadScene} from './loadscene.js';
 import {Level001} from './level001.js'
 const config = {
     width: 2048,
